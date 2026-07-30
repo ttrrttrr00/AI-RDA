@@ -1,0 +1,6 @@
+{
+  "name": "농작물 AI 현장진단·상담 도우미",
+  "description": "농업인을 위한 농작물 사진 상태 확인 및 초기 현장 진단·상담 기록 지원 웹 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
